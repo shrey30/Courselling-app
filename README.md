@@ -1,5 +1,5 @@
 Counselling App Backend – Node.js & Express
-I have built the backend of a counselling app that allows users to explore and purchase courses while enabling admins to manage course content efficiently.
+I have built the backend of a counselling app that allows users to explore and purchase courses while enabling admins to manage course content efficiently.<br>
 
 🔹 Features:
 User & Admin Management – Secure authentication and role-based access. <br>
